@@ -14,7 +14,6 @@ class Main {
 	 */
 	public function run() {
 
-		$this->log_data( $data );
 		add_action( 'admin_menu', array( $this, 'logger_page' ) );
 
 	}
