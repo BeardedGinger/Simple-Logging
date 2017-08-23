@@ -1,6 +1,6 @@
 Simple logging option when you need it.
 
-#Use
+# Use
 Creates a new "Simple Logging" page under the Tools tab.
 
 To record records use
